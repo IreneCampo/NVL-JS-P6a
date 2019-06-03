@@ -1,0 +1,24 @@
+
+/*
+En esta práctica vamos a crear un pequeño script con las siguientes variables:
+*/
+
+// Mi nombre y apellidos:
+
+var nombreYApellidos= "Irene Campo González" ;
+
+//Mi edad:
+
+var edad= 37;
+
+//Los días de la semana:
+
+var diasDeLaSemana: ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"];
+
+//El valor de la gravedad:
+
+var gravedad= 9,80665 ;
+
+// Los tres primeros números impares:
+
+var 3primerosNumerosImpares=[1, 3, 5] ;
